@@ -2,13 +2,15 @@
 
 <h1>IPO</h1>
 
-<p>Input prompt </p>
+<p>Input Price of Meal </p>
+
+<p>Sales Tax Rate: 7% </p>
 
 <input @bind="InputString "/>
 
 <button class="btn btn-primary" @onclick="DoProcessing">Do it</button>
 
-<p>Output: @OutputString </p>
+<p>Price of meal with sales tax: @OutputString </p>
 
 @code
 
@@ -24,7 +26,7 @@
 
         double num = double.Parse(InputString);
 
-        num = num * 2; 
+        num = num + (num * 0.07); 
 
         OutputString = num.ToString();
 
