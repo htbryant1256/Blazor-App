@@ -2,7 +2,7 @@
 
 Name: Henry Bryant
 
-https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/
+https://sites.google.com/site/profvanselow/programming/languages/c_1/blazor
 
 
 # Blazor Starter Application
