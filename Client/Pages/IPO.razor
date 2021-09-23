@@ -1,13 +1,19 @@
-@page "/IPO"
+@page "/ipo"
 
-<h1>Input, Processing, Output</h1>
+<h1>IPO</h1>
 
-<p>Current count: @currentCount</p>
+<p>Input prompt </p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<input @bind="InputString "/>
 
-@code {
-    
+<button class="btn btn-primary" @onclick="DoProcessing">Do it</button>
+
+<p>Output: @OutputString </p>
+
+@code
+
+{
+
     private string InputString { get; set; }
 
     private string OutputString { get; set; }
