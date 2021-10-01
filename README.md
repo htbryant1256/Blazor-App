@@ -1,9 +1,12 @@
-![screenshot](https://user-images.githubusercontent.com/60831223/134562188-ff153c96-1104-4c56-ada2-19e53c32be9c.PNG)
-<img width="1920" alt="screenshot right now" src="https://user-images.githubusercontent.com/60831223/133713411-0c426624-830d-4f92-bb3b-f9c471ef9c45.png">
+<img width="515" alt="Tutorial 6" src="https://user-images.githubusercontent.com/60831223/135560419-f993fadb-a460-477c-b937-2bbe6d12a5f5.PNG">
+
+
+
+
 
 Name: Henry Bryant
 
-https://sites.google.com/site/profvanselow/programming/languages/c_1/blazor
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/build-a-blazor-app?view=aspnetcore-5.0&pivots=server
 
 
 # Blazor Starter Application
